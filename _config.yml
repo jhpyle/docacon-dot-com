@@ -1,0 +1,45 @@
+url: https://docacon.com
+baseurl: ""
+
+# Site settings
+title: Docacon 2019
+author: Jonathan Pyle
+email: jhpyle@gmail.com
+description: "Docacon 2019, taking place at Brooklyn Law School on June 21, is the second annual conference of the Docassemble user community."
+
+
+# Team names, titles and social links
+people: 
+- name: Jonathan Pyle
+  pic: jonathan-pyle
+  position: Contract Performance Officer, Philadelphia Legal Assistance
+  social:
+    - title: twitter
+      url: https://twitter.com/docassemble
+    - title: github
+      url: https://github.com/jhpyle
+    - title: linkedin
+      url: https://www.linkedin.com/in/jonathan-pyle-6800a75/
+sponsors: 
+- name: Community.lawyer
+  pic: community-lawyer.png
+  url: https://community.lawyer
+- name: Upsolve
+  pic: upsolve.svg
+  url: https://upsolve.org
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/hashtag/docacon19?src=hash
+  - title: github
+    url: http://github.com/jhpyle/docacon-dot-com
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 113 Gladstone Road
+  - line: Lansdowne, PA 19050
+
+# Build settings
+markdown: kramdown
+permalink: pretty
