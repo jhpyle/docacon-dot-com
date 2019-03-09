@@ -1,4 +1,4 @@
 docacon-dot-com
-====================
+===============
 
-This is the source code for the GitHub page site https://docacon.com.
+This is the source code for the GitHub Pages site https://docacon.com.
