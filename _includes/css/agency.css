@@ -69,6 +69,10 @@ h6 {
     background-color: #222;
 }
 
+.btn {
+    white-space: normal;
+}
+
 .btn-primary {
     border-color: #{{ site.data.template.color.link-primary }};
     text-transform: uppercase;
@@ -682,6 +686,10 @@ section h3.section-subheading {
     margin-top: 0;
 }
 
+.sponsor {
+    margin-bottom: 20px;    
+}
+
 aside.clients img {
     margin: 50px auto;
 }
@@ -896,7 +904,9 @@ body {
     webkit-tap-highlight-color: #{{ site.data.template.color.primary }};
 }
 
-.vertical-align-bottom {
+.vertical-align-middle {
     display: flex;
+    flex-wrap: wrap;
     align-items: center;
 }
+
