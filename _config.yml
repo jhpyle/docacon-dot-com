@@ -33,7 +33,9 @@ social:
   - title: twitter
     url: https://twitter.com/hashtag/docacon19?src=hash
   - title: github
-    url: http://github.com/jhpyle/docacon-dot-com
+    url: https://github.com/jhpyle/docacon-dot-com
+  - title: envelope
+    url: mailto:docacon@docassemble.org
 
 # Postal address (add as many lines as necessary)
 address:
