@@ -33,14 +33,6 @@ people:
       url: https://github.com/rhudock
     - title: linkedin
       url: https://www.linkedin.com/in/rhudock/
-- name: Scott Kelly
-  pic: scott-kelly
-  position: President, <a target="_blank" href="https://community.lawyer/">Community.lawyer</a>
-  social:
-    - title: twitter
-      url: https://twitter.com/LawyerCommunity
-    - title: linkedin
-      url: https://www.linkedin.com/in/scott-kelly-0481ba80/
 - name: Dorna Moini
   pic: dorna-moini
   position: Founder / CEO, <a target="_blank" href="https://www.documate.org/">Documate</a>
