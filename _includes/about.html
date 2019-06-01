@@ -20,20 +20,15 @@
             </div>
             <div class="row">
                 <div class="col-sm-offset-2 col-sm-8">
-                    {% for sponsor in site.sponsors %}
-                    {% assign mod = forloop.index | modulo: 2 %}
-                    {% if mod == 1 %}
                     <div class="row vertical-align-middle">
-                    {% endif %}
-                        <div class="col-sm-6{% if forloop.last %} col-sm-offset-3{% endif %}">
+                    {% for sponsor in site.sponsors %}
+                        <div class="col-sm-6">
                             <div class="sponsor">
                                 <a href="{{ sponsor.url }}"><img src="img/sponsors/{{ sponsor.pic }}" class="img-responsive" alt=""></a>
                             </div>
                         </div>
-                    {% if mod == 0 or forloop.last %}
-                    </div>
-                    {% endif %}
                     {% endfor %}
+                    </div>
                 </div>
             </div>
         </div>
