@@ -9,9 +9,67 @@ description: "Taking place at Brooklyn Law School on Friday, June 21, Docacon 20
 
 # Team names, titles and social links
 people: 
+- name: Toby Grytafey
+  pic: toby-grytafey
+  position: Attorney, <a target="_blank" href="http://www.ablelaw.org/">ABLE</a>
+  social:
+    - title: twitter
+      url: https://twitter.com/TomaOfficer
+    - title: linkedin
+      url: https://www.linkedin.com/in/thomasofficer/
+- name: Michael Hassin
+  pic: michael-hassin
+  position: CTO, <a target="_blank" href="https://community.lawyer/">Community.lawyer</a>
+  social:
+    - title: github
+      url: https://github.com/strangerloops
+- name: Robert Hudock
+  pic: robert-hudock
+  position: Partner, <a target="_blank" href="https://www.kslaw.com/">King & Spalding</a>
+  social:
+    - title: twitter
+      url: https://www.linkedin.com/in/rhudock/
+    - title: github
+      url: https://github.com/rhudock
+    - title: linkedin
+      url: https://www.linkedin.com/in/rhudock/
+- name: Scott Kelly
+  pic: scott-kelly
+  position: President, <a target="_blank" href="https://community.lawyer/">Community.lawyer</a>
+  social:
+    - title: twitter
+      url: https://twitter.com/LawyerCommunity
+    - title: linkedin
+      url: https://www.linkedin.com/in/scott-kelly-0481ba80/
+- name: Dorna Moini
+  pic: dorna-moini
+  position: Founder / CEO, <a target="_blank" href="https://www.documate.org/">Documate</a>
+  social:
+    - title: twitter
+      url: https://twitter.com/dorna_moini
+    - title: linkedin
+      url: https://www.linkedin.com/in/documentautomation/
+- name: Thomas Officer
+  pic: thomas-officer
+  position: Design Lead, <a target="_blank" href="https://community.lawyer/">Community.lawyer</a>
+  social:
+    - title: twitter
+      url: https://twitter.com/TomaOfficer
+    - title: linkedin
+      url: https://www.linkedin.com/in/thomasofficer/
+- name: Everett Pompeii
+  pic: everett-pompeii
+  position: Founder, <a target="_blank" href="http://clerical.ai">Clerical</a>
+  social:
+    - title: twitter
+      url: https://twitter.com/clericalai
+    - title: github
+      url: https://github.com/epompeii
+    - title: linkedin
+      url: https://www.linkedin.com/in/epompeii/
 - name: Jonathan Pyle
   pic: jonathan-pyle
-  position: Contract Performance Officer, Philadelphia Legal Assistance
+  position: Attorney, <a target="_blank" href="https://philalegal.org">PLA</a>
   social:
     - title: twitter
       url: https://twitter.com/docassemble
@@ -19,6 +77,32 @@ people:
       url: https://github.com/jhpyle
     - title: linkedin
       url: https://www.linkedin.com/in/jonathan-pyle-6800a75/
+- name: Claire Johnson Raba
+  pic: claire-johnson-raba
+  position: Attorney, <a target="_blank" href="https://baylegal.org">Bay Area Legal Aid</a>
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/claire-johnson-raba-3626191/
+- name: Quinten Steenhuis
+  pic: quinten-steenhuis
+  position: Attorney, <a target="_blank" href="https://gbls.org/">GBLS</a>
+  social:
+    - title: twitter
+      url: https://twitter.com/QSteenhuis
+    - title: github
+      url: https://github.com/nonprofittechy
+    - title: linkedin
+      url: https://www.linkedin.com/in/quintensteenhuis/
+- name: Linda Tvrdy
+  pic: linda-tvrdy
+  position: Co-founder, <a target="_blank" href="https://daisydebt.org/">DaisyDebt</a>
+  social:
+    - title: twitter
+      url: https://twitter.com/latvrdy
+    - title: github
+      url: https://github.com/latvrdy
+    - title: linkedin
+      url: https://www.linkedin.com/in/lindatvrdy/
 sponsors: 
 - name: Community.lawyer
   pic: community-lawyer.png
