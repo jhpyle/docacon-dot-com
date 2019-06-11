@@ -8,7 +8,13 @@ email: jhpyle@gmail.com
 description: "Taking place at Brooklyn Law School on Friday, June 21, Docacon 2019 is the second annual conference of the Docassemble user community."
 
 # Team names, titles and social links
-people: 
+people:
+- name: Mike Carlson
+  pic: mike-carlson
+  position: Attorney, <a target="_blank" href="https://my.mnbar.org">MSBA</a>
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/mike-carlson-28b64113/
 - name: Toby Grytafey
   pic: toby-grytafey
   position: Attorney, <a target="_blank" href="http://www.ablelaw.org/">ABLE</a>
