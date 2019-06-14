@@ -20,7 +20,7 @@ people:
   position: Attorney, <a target="_blank" href="http://www.ablelaw.org/">ABLE</a>
   social:
     - title: twitter
-      url: https://twitter.com/TomaOfficer
+      url: https://twitter.com/buddytoledo
     - title: linkedin
       url: https://www.linkedin.com/in/thomasofficer/
 - name: Michael Hassin
@@ -33,8 +33,6 @@ people:
   pic: robert-hudock
   position: Partner, <a target="_blank" href="https://www.kslaw.com/">King & Spalding</a>
   social:
-    - title: twitter
-      url: https://www.linkedin.com/in/rhudock/
     - title: github
       url: https://github.com/rhudock
     - title: linkedin
