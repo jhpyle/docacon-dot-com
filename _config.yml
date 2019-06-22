@@ -37,6 +37,12 @@ people:
       url: https://github.com/rhudock
     - title: linkedin
       url: https://www.linkedin.com/in/rhudock/
+- name: Michael Johnson
+  pic: michael-johnson
+  position: Consultant, <a target="_blank" href="https://www.kslaw.com/">King & Spalding</a>
+  social:
+    - title: web
+      url: https://www.kslaw.com/people/michael-johnson
 - name: Dorna Moini
   pic: dorna-moini
   position: Founder / CEO, <a target="_blank" href="https://www.documate.org/">Documate</a>
