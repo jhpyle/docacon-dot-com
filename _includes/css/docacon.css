@@ -25,3 +25,10 @@ p.speakers {
     height: 100%;
     border: 0;
 }
+
+img.docaconthumb {
+    max-height: 133px;
+    margin-left: 0.25em;
+    margin-right: 0.25em;
+    margin-bottom: 0.5em;
+}
