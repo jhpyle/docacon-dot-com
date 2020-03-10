@@ -1048,8 +1048,8 @@ Sponsors
 
 .client-item {
     float: left;
-    width: 15%;
-    border: 1px solid rgba(255, 255, 255, 0.05);
+    /* width: 15%; */
+    border: 0;
     padding: 20px;
     text-align: center;
     opacity: .7;
@@ -1059,6 +1059,10 @@ Sponsors
 .client-item:hover {
     opacity: 1;
     background: #111111;
+}
+
+.client-item img {
+    height: 70px;
 }
 
 .bg-black {
