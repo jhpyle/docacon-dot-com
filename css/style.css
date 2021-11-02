@@ -141,6 +141,10 @@ ul.social-links li a i {
     color: rgba(255, 102, 0, 0.93);
 }
 
+.registration a {
+    color: rgba(255, 102, 0, 0.93);
+}
+
 .overlay-primary:before {
   content: '';
   background: rgba(255, 102, 0, 0.93);
