@@ -1441,7 +1441,7 @@ select.form-control:not([size]):not([multiple]) {
 }
 
 .schedule .schedule-contents .schedule-item ul li .time {
-  width: 10%;
+  width: 20%;
 }
 
 @media (max-width: 767px) {
@@ -1490,7 +1490,7 @@ select.form-control:not([size]):not([multiple]) {
 
 @media (max-width: 1200px) {
   .schedule .schedule-contents .schedule-item ul li .subject {
-    display: none;
+      width: 80%;
   }
 }
 
@@ -1713,7 +1713,7 @@ select.form-control:not([size]):not([multiple]) {
 
 @media (max-width: 1200px) {
   .schedule.two .schedule-contents .schedule-item ul li .subject {
-    display: none;
+      width: 80%;
   }
 }
 
@@ -3658,6 +3658,14 @@ ul.pagination .active a {
 .contact-form button {
   margin-top: 30px;
   margin-bottom: 30px;
+}
+
+ul.parts {
+    list-style: square inside;
+}
+
+.schedule .schedule-contents .schedule-item ul.parts li {
+  list-style: square inside;
 }
 
 /*# sourceMappingURL=maps/style.css.map */
