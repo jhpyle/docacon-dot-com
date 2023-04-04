@@ -208,9 +208,13 @@ a {
   transition: 0.2s ease;
 }
 
+.schedule-details a {
+    color: #009151;
+    text-decoration: underline;
+}
+
 a:focus, a:hover {
   color: #008141;
-  text-decoration: none;
 }
 
 button:hover {
@@ -3667,5 +3671,6 @@ ul.parts {
 .schedule .schedule-contents .schedule-item ul.parts li {
   list-style: square inside;
 }
+
 
 /*# sourceMappingURL=maps/style.css.map */
